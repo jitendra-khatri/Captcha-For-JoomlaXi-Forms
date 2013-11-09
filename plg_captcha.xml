@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="system">
+	<name>Captcha For JoomlaXi-Forms</name>
+	<author>Jitendra Khatri</author>
+	<creationDate>Nov. 2013</creationDate>
+	<copyright></copyright>
+	<license></license>
+	<authorEmail>jkhatri6@gmail.com</authorEmail>
+	<authorUrl></authorUrl>
+	<version>1.0</version>
+	<description>Captcha for JoomlaXi Form</description>
+	<files>
+		<filename plugin="captcha">captcha.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
